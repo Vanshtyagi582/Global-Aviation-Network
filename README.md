@@ -1,6 +1,6 @@
 # ✈️ Global Aviation Network — Geopolitical Disruption Analysis
 
-> **Network Science Mini-Project | IIIT-Delhi**
+> **Network Science | IIIT-Delhi**
 > Modeling the Impact of Iran/Middle East Airspace Closures on Global Connectivity
 
 ---
